@@ -36,7 +36,4 @@ Repositório de desenvolvimento para a competição de Machine Learning de Previ
 pip install -r requirements.txt
 ```
 
-## Repositório de Submissão
-
-O código de produção (pipeline + modelo treinado) está no repositório de submissão separado.
 
